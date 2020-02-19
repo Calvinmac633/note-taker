@@ -19,3 +19,6 @@ For users that need to keep track of a lot of information, it's easy to forget o
 ## Installation
 
 Make sure to run "npm install" in your console before running the application.
+Once this is done, run "node server.js" to launch the application. 
+-- or --
+Visit this link: http://sleepy-sands-76241.herokuapp.com/
